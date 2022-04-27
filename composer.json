@@ -1,0 +1,20 @@
+{
+    "name" : "daniel.sousa/mvc",
+    "authors": [
+        {
+            "name" : "Daniel",
+            "email" : "S0us4.dan@gmail.com"
+        }
+    ],
+
+    "license": [
+        "1.0.0",
+        "teste"
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
